@@ -16,8 +16,30 @@ const title = Astro.props.headings.find(f => f.depth == 1)?.text;
 		<title>{title}</title>
 	</head>
 	<body>
+		<nav>
+			<a href="/">Home</a> | <a href="/kink/">Kink stuff</a>
+		</nav>
+		<hr>
 		<slot />
 	</body>
 </html>
 <style is:global>
+	html {
+		background-color: #2d3e50;
+		color: #c8e7cc;
+	}
+	a {
+		color: #faaee2;
+	}
+
+	
+
+	a:visited {
+		color: #faaee2;
+	}
+
+	a:hover {
+		color: #000000;
+		background-color: #ecc2db;
+	}
 </style>

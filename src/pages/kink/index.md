@@ -5,7 +5,7 @@ layout: "@layouts/Layout.astro"
 
 This is more-or-less the same as [my FetLife profile](https://fetlife.com/users/15937458)
 here to link to people who don't have a FetLife account themselves. See also my
-[rope ad](./rope-ad).
+[rope ad](/kink/rope-ad/).
 
 ---
 
@@ -95,7 +95,8 @@ a change, or when I tie them *to myself*.
 I feel better around "some sort of trans" type of folks, and I usually find some
 degree of femme vibes present in people I'm attracted, but it ain't anything as
 simplistic as "no beard" or "uses she/her pronouns," nor does it seem to be a
-strict requirement. I don't think I could vibe with a cis man, though.
+strict requirement tho - but on the other hand, if you’re cis and I’m into you…
+you might not be.
 
 While body shape and mental health aren't limits to me, remember I'm a newbie,
 and my ability to accommodate your particular needs might be limited. Do your
@@ -172,7 +173,6 @@ negotiation, and probably logistics:
 
   Lots of logistics, and not really my thing, but with a good enough vibe I
   might be willing to test it out.
-- Sutures and needles.
 - Bullwhips.
   loud loud loud 🥲
 - Penile penetration.
