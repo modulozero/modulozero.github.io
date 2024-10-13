@@ -6,7 +6,7 @@ layout: "@layouts/Layout.astro"
 
 The general idea is:
 
-- 19th of December in Nieuwe Vide. The event will be between 13:00 and 17:00.
+- 14th of December in Nieuwe Vide. The event will be between 13:00 and 17:00.
 - For transfems and their trans partners.
 - I will show the basic square knot if there's a need for that, but assume this
   is a "peer" event - i.e. just because I'm an organizer, doesn't mean I know
@@ -33,13 +33,10 @@ I myself ain't either).
 
 ## Place, Date & Time
 
-It's on 19th of December, in Nieuwe Vide, the same room as we always meet in,
+It's on 14th of December, in Nieuwe Vide, the same room as we always meet in,
 just with some adjustments for privacy. We will have access to the adjacent room
-for all your changing needs.
-
-As for time, it will _most likely_ be a Saturday afternoon, likely either in
-late October or early November. If this works out, I'd like to eventually get
-into a rhythm where this is a regular/semi-regular occurrence.
+for all your changing needs. The event starts at 13, and is planned to last
+until 14.
 
 The event will be fairly long - 3-4 hours - and I'm going to ask everyone to
 arrive on time. On the other hand, after the first 2 hours it shouldn't be too
