@@ -15,12 +15,7 @@ The general idea is:
   Dimmed lights, set a theme, have tea & coffee. That sort of stuff. I'm not
   going to enforce jute or anything.
 
-## Audience: Transfems and Their Queer Playmates
-
-Queer refers to meaningfully queer, though I'm not going to play queer cop -
-just like, someone who is _not_ cishet, who is comfortable calling themselves
-queer, and that's about it. This is mostly based on previous polls around here,
-figuring out what's going to be most comfortable for our members.
+## Audience: Transfems and Their Trans Partners
 
 Any constellations, including solos, are welcome - but I can't guarantee you'll
 find anyone to tie with unless you bring someone with you.
