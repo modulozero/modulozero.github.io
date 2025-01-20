@@ -7,7 +7,6 @@ Look! A Web Visiting Card! In 2023! How Delightfully ~~Passé~~ Old School!
 
 ## Social stuff
 
-* [Cohost](https://cohost.org/ModZero)<!--rehype:rel=me--> - probably fav for a while.
 * [Blue Sky](https://bsky.app/profile/gendershrapnel.modzero.xyz)<!--rehype:rel=me-->.
 * [Mastodon](https://mastodon.social/@gendershrapnel)<!--rehype:rel=me--> Barely
   ever use it.
