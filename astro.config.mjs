@@ -9,4 +9,7 @@ export default defineConfig({
             [rehypeAttrs, { properties: 'attr' }],
         ],
     },
+    experimental: {
+        contentIntellisense: true,
+    }
 });
