@@ -8,7 +8,7 @@ Look! A Web Visiting Card! In 2023! How Delightfully ~~Passé~~ Old School!
 ## Social stuff
 
 * [Blue Sky](https://bsky.app/profile/gendershrapnel.modzero.xyz)<!--rehype:rel=me-->.
-* [Mastodon](https://mastodon.social/@gendershrapnel)<!--rehype:rel=me--> Barely
+* [Mastodon](https://mastodont.modzero.xyz/@modzero)<!--rehype:rel=me--> Barely
   ever use it.
 * [GitHub](https://github.com/modulozero/)<!--rehype:rel=me-->.
 * [The Bad Place (LinkedIn)](https://www.linkedin.com/in/modzero/)<!--rehype:rel=me-->.
