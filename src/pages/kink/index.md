@@ -4,13 +4,19 @@ layout: "@layouts/Layout.astro"
 # Anastazja/ModZero/GenderShrapnel's Kink Profile
 
 This is more-or-less the same as [my FetLife profile](https://fetlife.com/users/15937458)
-here to link to people who don't have a FetLife account themselves. See also my
-[rope ad](/kink/rope-ad/).
+here to link to people who don't have a FetLife account themselves. Obviously, this zone
+is NSFW, even if it's just a bunch of text. If you're a potential employer or coworker,
+you're going forward at your own risk. You probably _shouldn't_, but I can't stop you.
+The following might give you information that, as a recruiter, you probably shouldn't
+have.
 
 ---
 
-I'm an autistic trans bi lesbian commie rigger/self tier, a domme, and a sadist
-\- with switch tendencies and AuDHD. Demi everything, 90% a stone (in the
+I'm a lesbian rigger, a "soft" domme, and a sadist. I'm also a switch, but we're not
+going to go to deep into that. I'm polyamorous, but currently saturated - I'd be quite
+careful adding anyone to my polycule.
+
+I'm also autistic and I have ADHD.
 "uninterested in anyone getting *me* off and I often forget to take off my
 clothes" sense), non-monogamous and not particularly romantic in the "candlelit
 diner" sense (candles are for other things). I go by
