@@ -21,13 +21,25 @@ I specialize in back-end development, especially in Python and Typescript - but
 I've also worked with Java, Go, Perl, and even PHP and C, if we're looking into my
 old history.
 
-I've dabbled in C# and Rust, and I'd love to use either in the future.
+I've dabbled in C# and Rust, and I'd love to use either in the future. My distant
+past included work as a system administrator, and more recent a deployment of
+Kubernetes on Google Cloud. For the ops side of things, I prefer most dedicated,
+rented servers rather than Cloud services - but not to the extent I'd _never_
+suggest using cloud tools. I've had contact with Amazon Cloud Services and
+Microsoft Azure, but GCS is the only one I've had a significant active role in.
 
 I'm at my best allowed to work very odd hours, remotely or at an office that's
-_very_ close to me. I'm apt at asynchronous work - but I enjoy teamwork, as well
-as regular active collaboration - such as pair programming, coaching sessions,
-or even social calls. On the other hand, morning standups and poorly conducted or
-spurious meetings exhaust me more than they do others.
+close to me. I'm not incompatible with office work - in fact I enjoy some 
+segregation of spaces - but I find many offices to be sensorily overwhelming and
+lacking in privacy.
+
+I'm apt at asynchronous work - but I enjoy teamwork, as well as regular active
+collaboration - such as pair programming, coaching sessions, or even social calls.
+Poorly conducted meetings that drag on are my anathema, but a meeting with a clear
+purpose and a _human_ taking minutes can be good, occasionally even enjoyable. I'm
+less "this meeting could have been an email," and more "this meeting should have
+started with an email" - and sometimes once you write a good enough email, you no
+longer want the meeting.
 
 I like to develop a "greenfield"-ish project, especially developing frameworks for
 other people to fill in. It brings me joy to see other developers build on top of
